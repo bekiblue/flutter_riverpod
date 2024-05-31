@@ -163,10 +163,10 @@ class _ClientHomeScreenState extends ConsumerState<ClientHomeScreen> {
         bottomNavigationBar: const TabBar(
           tabs: [
             Tab(
-              text: 'My jobs',
+              text: 'Applications',
             ),
             Tab(
-              text: 'Applications',
+              text: 'My jobs',
             ),
           ],
         ),
